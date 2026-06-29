@@ -1,6 +1,6 @@
 # 🛠️ Claude PJM Risk Analyzer Skill
 
-An open-source custom automation skill built for the Anthropic Agent Skills protocol. This tool allows Project Managers to instantly convert raw text, Slack updates, or meeting transcripts into clean, executive-ready RAID logs.
+An open-source custom automation skill built for the Anthropic Agent Skills protocol. This tool allows Project Managers to instantly convert raw text, Slack updates, or meeting transcripts into clean, executive ready RAID logs.
 
 ## 🚀 How It Works
 This skill utilizes Claude's "progressive disclosure" capability. It sits silently in your settings and only triggers when it detects risk-related trigger words in your workflow prompts.
