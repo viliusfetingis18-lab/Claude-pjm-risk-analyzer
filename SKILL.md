@@ -1,6 +1,7 @@
 name: pjm-risk-analyzer
 description: Automatically scans raw project updates, meeting transcripts, or team chat logs to detect, score, and format project risks into a standardized RAID log. Trigger this when text mentions "delay", "blocker", "risk", "dependency", or "budget".
 version: 1.0.0
+author: viliusfetingis18-lab
 ---
 
 # PJM Risk Assessment and RAID Log Generator
