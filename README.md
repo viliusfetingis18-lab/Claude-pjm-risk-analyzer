@@ -8,8 +8,7 @@ This skill utilizes Claude's "progressive disclosure" capability. It sits silent
 ## 📦 How to Use
 1. Download the `SKILL.md` file from this repository.
 2. "Open Claude.ai → Customise → Skills → click the + icon in the top right → Create Skill → upload skill "
-3. Click "Add Custom Skill" and upload or paste the content of this file.
-4. Paste any messy project text into a prompt window to see it auto-format.
+3. Paste any messy project text into a prompt window to see it auto-format.
 
 ## 🛡️ Privacy & Safety Disclaimer
 * **Data Security:** This is a logic and text-formatting skill framework. It runs entirely within your existing Claude sandbox environment. It does not execute local command scripts, terminal code, or read/write external computer directories.
